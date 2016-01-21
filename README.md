@@ -71,3 +71,8 @@ The Git for Windows project aims to provide three different types of installers:
 ## Support scripts/files
 
 The `build-extra` repository is also the home of other resources necessary to develop and maintain Git for Windows. For example, it contains the [Git garden shears](https://github.com/git-for-windows/build-extra/blob/master/shears.sh) that help with updating Git for Windows' source code whenever new upstream Git versions are released ("merging rebase").
+
+<br>
+Build Status:
+<br>
+[![Build status](https://ci.appveyor.com/api/projects/status/cty0bh58kry2fk3q/branch/master?svg=true)](https://ci.appveyor.com/project/bleissem/build-extra/branch/master)
