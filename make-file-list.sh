@@ -108,4 +108,5 @@ usr/bin/getopt.exe
 mingw$BITNESS/etc/gitattributes
 mingw$BITNESS/bin/pdftotext.exe
 mingw$BITNESS/bin/libstdc++-6.dll
+usr/bin/column.exe
 EOF
